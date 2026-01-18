@@ -7,7 +7,7 @@ software engineer crafting clean UIs and smooth user experiences. passionate abo
 
 comfortable across the stack — from designing thoughtful interfaces to building backend systems in javascript, spring-boot and python.
 
-[portfolio](https://sohamdutta.in) • [contact me](mailto:shmdsgn@gmail.com)
+[portfolio](https://sohamdutta.in) • [email](mailto:shmdsgn@gmail.com)
 
 <!--<img height="165em" src="https://github-readme-stats.vercel.app/api?username=shm-dtt&show_icons=true&theme=transparent" alt="shm-dtt's stats"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shm-dtt&show_icons=true&locale=en&layout=compact&theme=transparent" alt="shm-dtt" />-->
 
