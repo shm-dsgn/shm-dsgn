@@ -2,7 +2,8 @@
 
 software engineer crafting clean UIs and smooth user experiences. passionate about building simple, useful products that solve everyday problems — from browser extensions to tiny tools that just make life easier.
 
-- building internal tools and automation systems for large-scale pan-India telecom networks at [NOKIA](https://www.nokia.com/) 
+- currently working on data/ai and personalization at [Albertsons](https://www.albertsons.com/)
+- was building internal tools and automation systems for large-scale pan-India telecom networks at [NOKIA](https://www.nokia.com/) 
 - strong believer in minimal design, fast interfaces, and products that do one thing really well.
 
 comfortable across the stack — from designing thoughtful interfaces to building backend systems in javascript, spring-boot and python.
@@ -12,8 +13,8 @@ comfortable across the stack — from designing thoughtful interfaces to buildin
 <!--<img height="165em" src="https://github-readme-stats.vercel.app/api?username=shm-dtt&show_icons=true&theme=transparent" alt="shm-dtt's stats"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shm-dtt&show_icons=true&locale=en&layout=compact&theme=transparent" alt="shm-dtt" />-->
 
 
-<details>
+<!-- <details>
 <summary>github stats.</summary>
 <br>
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shm-dtt&show_icons=true&theme=transparent" alt="shm-dtt's stats"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shm-dtt&show_icons=true&locale=en&layout=compact&theme=transparent" alt="shm-dtt" />
-</details>
+</details> -->
